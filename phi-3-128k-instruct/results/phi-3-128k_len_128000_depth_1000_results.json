@@ -1,0 +1,12 @@
+{
+    "model": "microsoft/Phi-3-mini-128k-instruct",
+    "context_length": 128000,
+    "depth_percent": 10.0,
+    "version": 1,
+    "needle": "\nThe best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.\n",
+    "model_response": "The best way to enjoy San Francisco is to explore its rich history and culture. Visit iconic landmarks like the Golden Gate Bridge, Fisherman's Wharf, and Alcatraz Island. Experience the vibrant food scene by trying out local delicacies at places like Ghirardelli Square or sampling street food at the Ferry Building Marketplace. Don't miss out on the Golden Gate Park, especially if you're a nature lover. Also, take a walk along the Embarcadero and enjoy the beautiful views of the bay. Lastly, immerse yourself in the city's art and music scene by visiting museums like the de Young Museum or attending a performance at the San Francisco Symphony.",
+    "score": 5,
+    "test_duration_seconds": 20.323235750198364,
+    "test_timestamp_utc": "2024-04-26 09:32:59+0000",
+    "file_name": "phi-3-128k_len_128000_depth_1000"
+}

@@ -1,0 +1,12 @@
+{
+    "model": "microsoft/Phi-3-mini-128k-instruct",
+    "context_length": 96000,
+    "depth_percent": 70.0,
+    "version": 1,
+    "needle": "\nThe best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.\n",
+    "model_response": "The document doesn't provide specific information on what the best thing to do in San Francisco is. However, it does mention that the city has a lot of attractions like Frederick's of Hollywood.",
+    "score": 1,
+    "test_duration_seconds": 10.646695852279663,
+    "test_timestamp_utc": "2024-04-26 09:06:42+0000",
+    "file_name": "phi-3-128k_len_96000_depth_7000"
+}

@@ -1,0 +1,12 @@
+{
+    "model": "microsoft/Phi-3-mini-128k-instruct",
+    "context_length": 96000,
+    "depth_percent": 75.0,
+    "version": 1,
+    "needle": "\nThe best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.\n",
+    "model_response": "The document suggests that the best thing to do in San Francisco is to explore the city's rich history and culture. Visit iconic landmarks like the Golden Gate Bridge, Fisherman's Wharf, and Alcatraz Island. Enjoy the vibrant food scene, with a variety of cuisines ranging from traditional American to international. Experience the city's famous cable cars and take a stroll along the picturesque Lombard Street. Don't miss out on the world-class museums and art galleries, such as the San Francisco Museum of Modern Art and the de Young Museum. Also, indulge in the city's famous seafood and wine. However, it's important to note that this advice is based on the information provided in the document and may not cover all possible activities or attractions in San Francisco.",
+    "score": 5,
+    "test_duration_seconds": 14.326578140258789,
+    "test_timestamp_utc": "2024-04-26 09:07:01+0000",
+    "file_name": "phi-3-128k_len_96000_depth_7500"
+}
